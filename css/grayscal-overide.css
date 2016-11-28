@@ -1,0 +1,39 @@
+footer .copyrt-text{
+  font-size: 12px ! important;
+  color: gray ! important;
+
+}
+
+.project-panel{
+margin:2px;
+
+}
+.project-panel:hover{
+  cursor: pointer;
+  box-shadow: 0 1px 2px 0 rgba(1,1,1,0.1), 0 4px 8px 0 rgba(1,1,1,0.2);
+  border-color: gray;
+}
+body{
+color:#000;
+background-color: #fff;
+
+}
+.navbar-custom.top-nav-collapse{
+  border:none;
+}
+.text-justify{
+  text-align: justify;
+}
+
+.project-des-text{
+  font-size: 16px;
+}
+.project{
+margin-top:100px;
+
+}
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(200, 200, 200, 0.95), rgba(0, 0, 0, 0));
+}
