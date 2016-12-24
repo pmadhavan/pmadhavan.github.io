@@ -28,12 +28,101 @@ background-color: #fff;
 .project-des-text{
   font-size: 16px;
 }
+.project-des{
+padding:0px 150px;
+}
 .project{
 margin-top:100px;
 
+}
+
+.project-rm{
+  margin:100px 0px;
+}
+
+.project-sec1{
+  margin:20px 0;
+}
+.project-sec1 ul li{
+  list-style-type: none;
+  color: #404040;
+  padding-bottom: 15px;
+
+}
+
+.project-sec1 span , .project-action-sub-head{
+  font-weight: bold;
+}
+.project-video-sec, .intro-img{
+text-align: center;
+
+}
+.navbar-custom-override{
+  background-color: #000;
+  padding:0px;
+}
+
+
+h4,h6{
+  font-weight: 300;
+  margin-top:0px ;
+  text-transform: capitalize;
+}
+
+h1{
+  font-weight: 500;
+  margin-bottom:15px;
+  text-transform: capitalize;
 }
 hr {
     border: 0;
     height: 1px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(200, 200, 200, 0.95), rgba(0, 0, 0, 0));
+}
+
+ .project-des p{
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.project-des section{
+  margin:40px 0px;
+}
+
+.project-img.row {
+    margin: 40px 0px;
+    text-align: center;
+}
+
+.br-screenshot{
+  padding-bottom: 15px;
+}
+
+.text-italic-light{
+font-style: italic;
+font-size: 20px;
+padding:15px;
+}
+.text-underline{
+  text-decoration: underline;
+}
+.proj-des-center{
+  padding: 40px 0;
+}
+
+.text-small-light{
+  font-size:  14px;
+  color: #848482;
+}
+
+.proj-gray-text{
+  color: #999999;
+}
+
+.proj-norm-text{
+  color: #000;
+}
+.proj-border{
+  padding: 15px;
+  border: 1px dashed #c0c0c0;
 }
