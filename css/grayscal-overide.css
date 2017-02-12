@@ -113,27 +113,3 @@ padding:15px;
 figure{
   margin:1em auto;
 }
-
-@media (min-width: 768px)
-.navbar-custom {
-background-color: #37C2CA;
-}
-.navbar-custom {
-background-color: #37C2CA;
-}
-.navbar-custom.top-nav-collapse {
-  background-color: #37C2CA;
-  border:none;
-
-}
-@media (min-width: 768px)
-
-.navbar-custom.top-nav-collapse {
-  background-color: #37C2CA;
-}
-.intro{
-  color:#37C2CA;
-
-  background: #fff;
-
-}
